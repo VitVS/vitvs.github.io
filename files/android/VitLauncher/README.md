@@ -1,5 +1,11 @@
-Лаунчер для android-боксов на процессоре Amlogic S905X2
+Лаунчер для android-боксов на процессоре Amlogic S905X2     
 
-<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_01.png"/>
+VitLauncher_v1.apk     
+<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_v1_01.png"/>     
+<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_v1_02.png"/>     
 
-<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_02.png"/>
+VitLauncher_v2.apk     
+<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_v2_01.png"/>     
+
+VitLauncher_v3.apk     
+<img src="https://raw.githubusercontent.com/VitVS/vitvs.github.io/master/files/android/VitLauncher/image_v3_01.png"/>     
